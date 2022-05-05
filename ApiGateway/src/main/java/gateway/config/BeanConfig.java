@@ -1,4 +1,4 @@
-package bstorm.akimts.gateway.config;
+package Gateway.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package bstorm.akimts.reserv.models;
+package Reserve.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

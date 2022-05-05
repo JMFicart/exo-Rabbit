@@ -1,8 +1,7 @@
-package bstorm.akimts.reserv.service;
+package Reserve.service;
 
-import bstorm.akimts.reserv.models.Reservation;
-import bstorm.akimts.reserv.rabbit.RabbitSender;
-import com.fasterxml.jackson.core.JsonProcessingException;
+import Reserve.models.Reservation;
+import Reserve.rabbit.RabbitSender;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;

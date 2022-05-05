@@ -1,4 +1,4 @@
-package bstorm.akimts.exo.facture.model;
+package Facture.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

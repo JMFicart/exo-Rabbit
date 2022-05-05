@@ -1,13 +1,10 @@
-package bstorm.akimts.reserv.presentation;
+package Reserve.presentation;
 
-import bstorm.akimts.reserv.models.Reservation;
-import bstorm.akimts.reserv.service.ReservationService;
+import Reserve.models.Reservation;
+import Reserve.service.ReservationService;
 import org.springframework.beans.factory.InitializingBean;
-import org.springframework.stereotype.Component;
 
 import java.time.LocalDate;
-import java.util.Calendar;
-import java.util.Date;
 import java.util.Scanner;
 
 //@Component

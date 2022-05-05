@@ -1,7 +1,7 @@
-package bstorm.akimts.exo.facture.service;
+package Facture.service;
 
-import bstorm.akimts.exo.facture.model.Facture;
-import bstorm.akimts.exo.facture.rabbit.RabbitSender;
+import Facture.model.Facture;
+import Facture.rabbit.RabbitSender;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

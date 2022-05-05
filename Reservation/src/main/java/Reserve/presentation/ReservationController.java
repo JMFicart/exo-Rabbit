@@ -1,7 +1,7 @@
-package bstorm.akimts.reserv.presentation;
+package Reserve.presentation;
 
-import bstorm.akimts.reserv.models.forms.ReservForm;
-import bstorm.akimts.reserv.service.ReservationService;
+import Reserve.models.forms.ReservForm;
+import Reserve.service.ReservationService;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 

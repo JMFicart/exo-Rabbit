@@ -1,4 +1,4 @@
-package bstorm.akimts.reserv.config;
+package Reserve;
 
 import org.springframework.amqp.core.Binding;
 import org.springframework.amqp.core.BindingBuilder;

@@ -1,4 +1,4 @@
-package bstorm.akimts.reserv.config;
+package Reserve;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;

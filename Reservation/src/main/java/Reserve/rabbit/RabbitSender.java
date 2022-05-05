@@ -1,6 +1,6 @@
-package bstorm.akimts.reserv.rabbit;
+package Reserve.rabbit;
 
-import bstorm.akimts.reserv.models.Reservation;
+import Reserve.models.Reservation;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.slf4j.Logger;
@@ -10,10 +10,6 @@ import org.springframework.amqp.core.MessageBuilder;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.beans.factory.InitializingBean;
 import org.springframework.stereotype.Component;
-
-import java.time.LocalDate;
-import java.util.Calendar;
-import java.util.Date;
 
 @Component
 public class RabbitSender implements InitializingBean {

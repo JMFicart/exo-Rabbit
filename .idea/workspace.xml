@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7a7e8bb-897e-46b6-9bca-cbe0f53d09c8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Reservation/src/main/java/Reserve/BeanConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reservation/src/main/java/Reserve/RabbitConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGateway/src/main/java/gateway/GatewayApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGateway/src/main/java/gateway/config/BeanConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGateway/src/main/java/gateway/controller/ReservationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facture/src/main/java/facture/FactureApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facture/src/main/java/facture/config/BeanConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facture/src/main/java/facture/config/RabbitConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facture/src/main/java/facture/model/Facture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facture/src/main/java/facture/model/Reservation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facture/src/main/java/facture/rabbit/RabbitReciever.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facture/src/main/java/facture/rabbit/RabbitSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facture/src/main/java/facture/service/FactureService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reservation/src/main/java/reserv/ReservApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reservation/src/main/java/reserv/config/BeanConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reservation/src/main/java/reserv/config/RabbitConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reservation/src/main/java/reserv/models/Facture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reservation/src/main/java/reserv/models/Reservation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reservation/src/main/java/reserv/models/forms/ReservForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reservation/src/main/java/reserv/presentation/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reservation/src/main/java/reserv/presentation/ReservationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reservation/src/main/java/reserv/rabbit/RabbitReciever.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reservation/src/main/java/reserv/rabbit/RabbitSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reservation/src/main/java/reserv/service/ReservationService.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="28jfIVwOLs4aA3AR1VSOUqvjpok" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/studentjava08/formations/exo-Rabbit&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Reserve.ReservApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reserve.ReservApp" />
+      <module name="exo-rabbit-reservation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Reserve.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Reserve.ReservApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7a7e8bb-897e-46b6-9bca-cbe0f53d09c8" name="Changes" comment="" />
+      <created>1651734838249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651734838249</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

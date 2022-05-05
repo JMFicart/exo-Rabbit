@@ -1,4 +1,4 @@
-package bstorm.akimts.gateway;
+package Gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

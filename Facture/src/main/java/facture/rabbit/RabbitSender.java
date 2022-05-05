@@ -1,6 +1,6 @@
-package bstorm.akimts.exo.facture.rabbit;
+package Facture.rabbit;
 
-import bstorm.akimts.exo.facture.model.Facture;
+import Facture.model.Facture;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.slf4j.Logger;

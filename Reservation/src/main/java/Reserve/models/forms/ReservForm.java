@@ -1,6 +1,6 @@
-package bstorm.akimts.reserv.models.forms;
+package Reserve.models.forms;
 
-import bstorm.akimts.reserv.models.Reservation;
+import Reserve.models.Reservation;
 import lombok.Data;
 
 import java.time.LocalDate;
