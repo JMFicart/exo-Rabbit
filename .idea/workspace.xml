@@ -5,30 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7a7e8bb-897e-46b6-9bca-cbe0f53d09c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Reservation/src/main/java/Reserve/BeanConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reservation/src/main/java/Reserve/RabbitConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApiGateway/src/main/java/gateway/GatewayApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApiGateway/src/main/java/gateway/config/BeanConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApiGateway/src/main/java/gateway/controller/ReservationController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facture/src/main/java/facture/FactureApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facture/src/main/java/facture/config/BeanConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facture/src/main/java/facture/config/RabbitConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facture/src/main/java/facture/model/Facture.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facture/src/main/java/facture/model/Reservation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facture/src/main/java/facture/rabbit/RabbitReciever.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facture/src/main/java/facture/rabbit/RabbitSender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facture/src/main/java/facture/service/FactureService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reservation/src/main/java/reserv/ReservApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reservation/src/main/java/reserv/config/BeanConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reservation/src/main/java/reserv/config/RabbitConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reservation/src/main/java/reserv/models/Facture.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reservation/src/main/java/reserv/models/Reservation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reservation/src/main/java/reserv/models/forms/ReservForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reservation/src/main/java/reserv/presentation/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reservation/src/main/java/reserv/presentation/ReservationController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reservation/src/main/java/reserv/rabbit/RabbitReciever.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reservation/src/main/java/reserv/rabbit/RabbitSender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reservation/src/main/java/reserv/service/ReservationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGateway/src/main/java/Gateway/controller/ReservationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ApiGateway/src/main/java/Gateway/controller/ReservationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reservation/src/main/java/Reserve/presentation/ReservationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reservation/src/main/java/Reserve/presentation/ReservationController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,17 +35,20 @@
     </option>
   </component>
   <component name="ProjectId" id="28jfIVwOLs4aA3AR1VSOUqvjpok" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/studentjava08/formations/exo-Rabbit&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/studentjava08/formations/microservices"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Reserve.ReservApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Reserve.ReservApp" />

@@ -1,10 +1,7 @@
 package Gateway.controller;
 
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 import org.springframework.web.client.RestTemplate;
 
 import java.time.LocalDate;
@@ -19,15 +16,16 @@ public class ReservationController {
     public ReservationController(RestTemplate template) {
         this.template = template;
     }
-
     @PostMapping
     public ResponseEntity<?> askForReserv(@RequestBody Map<String, String> request){
         System.out.println(request);
-
-        ResponseEntity<Object> response = template.postForEntity("http://localhost:8181/reserv", request, Object.class);
-
+        ResponseEntity<Object> response = template.postForEntity("http://localhost:8081/reserv", request, Object.class);
         return response;
     }
 
-
+    @GetMapping
+    public ResponseEntity<?> getReserv(){
+        ResponseEntity<Object> response = template.getForEntity("http://localhost:8081/reserv", Object.class);
+        return response;
+    }
 }
